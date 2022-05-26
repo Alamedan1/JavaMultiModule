@@ -51,7 +51,7 @@ jobs:
           # Select a Checkmarx Project Name
           project_name: # optional, default is ${{ github.repository }}
           # Branch name
-          branch: # optional, default is ${{ github.ref }}
+          branch: main
           # GitHub API Token
           github_token: # optional, default is ${{ github.token }}
           # Additional parameters for AST scan
