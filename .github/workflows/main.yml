@@ -53,7 +53,7 @@ jobs:
           # Branch name
           branch: main
           # GitHub API Token
-          github_token: # optional, default is ${{ github.token }}
+          github_token: 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
           # Additional parameters for AST scan
           additional_params: # optional, default is 
           
