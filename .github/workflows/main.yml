@@ -49,7 +49,7 @@ jobs:
           # Secret key for AST portal authentication
           cx_client_secret: ${{ secrets.SECRET_FROM_AST }}
           # Select a Checkmarx Project Name
-          project_name: # optional, default is ${{ github.repository }}
+          project_name: KB_test # optional, default is ${{ github.repository }}
           # Branch name
           branch: main
           # GitHub API Token
