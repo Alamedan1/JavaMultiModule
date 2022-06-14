@@ -27,7 +27,7 @@
 
     <dependencies>
 
-        <!-- Spring DI  for all modules -->
+        <!-- Spring DI  for all modulessss -->
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-context</artifactId>
