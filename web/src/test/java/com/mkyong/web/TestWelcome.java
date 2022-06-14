@@ -15,7 +15,7 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 
 //https://docs.spring.io/spring-framework/docs/current/spring-framework-reference/testing.html#integration-testing-annotations-junit-jupiter
 //@ExtendWith(SpringExtension.class)
-//@WebAppConfiguration
+//@WebAppConfiguration - KB test
 //@ContextConfiguration(classes = SpringConfig.class)
 @SpringJUnitWebConfig(SpringConfig.class)
 @DisplayName("Test Spring MVC default view")
