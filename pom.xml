@@ -21,9 +21,7 @@
         <module>password-sha</module>
         <module>password-md5</module>
     </modules>
-
     <dependencies>
-
         <!-- Spring DI  for all modulessss -->
         <dependency>
             <groupId>org.springframework</groupId>
